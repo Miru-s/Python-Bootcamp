@@ -1,0 +1,19 @@
+answers = [
+    "python",
+    "java",
+    "swift",
+    "canada",
+    "india",
+    "america",
+    "london",
+]
+
+words = [
+    "nptoyh",
+    "avja",
+    "wfsit",
+    "cdanaa",
+    "aidin",
+    "aiearcm",
+    "odnlon",
+]
